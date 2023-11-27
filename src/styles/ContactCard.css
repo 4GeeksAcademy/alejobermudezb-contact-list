@@ -1,0 +1,71 @@
+h1 {
+    text-align: center;
+}
+
+/*.contactList {
+    width: 60%;
+    margin: auto;
+    margin-left: auto;
+}*/
+
+.infoBox {
+    display: flex;
+    height: 200px;
+}
+
+.item {
+        flex: 1;
+        padding-top: 6px;
+        font-size: 20px;
+        color: gray;
+
+}
+
+.card-title {
+    font-size: 30px;
+font-family: Arial}
+
+
+.i1 {
+    font-size: 25px;
+    font-weight:  400;
+
+}
+
+i {
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.i3 {
+    font-size: 15px;
+}
+
+/*.icons {
+    display: flex;
+    width: 150px;
+
+    margin-top: 20px;
+    justify-content: space-between;
+    height: 40px;
+
+}*/
+
+.element {
+    margin-bottom: auto;
+    background: none;
+    border: none;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+.iconBtn {
+    font-size: 25px;
+}
+
+img {
+    border: none;
+    border-radius: 50%;
+    height: 190px;
+    width: 190px;
+}
